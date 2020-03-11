@@ -44,7 +44,7 @@
     "shelljs": "^0.8.3",
     "sonarqube-scanner": "^2.5.0",
     "tsify": "^4.0.1",
-    "tslint": "^5.18.0",
+    "tslint": "^6.0.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-no-focused-test": "^0.5.0",
     "typescript": "^3.5.3",
