@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@types/node": "12.12.38",
-    "papaparse": "5.2.0"
+    "papaparse": "5.3.0"
   },
   "lint-staged": {
     "cypress/**/*.ts": [
