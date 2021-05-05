@@ -19,7 +19,7 @@
     "convertXLStoJSON":"ts-node testData/convertXLStoJSON.ts"
   },
   "dependencies": {
-    "@cypress/browserify-preprocessor": "^2.1.1",
+    "@cypress/browserify-preprocessor": "^3.0.0",
     "@slack/client": "^5.0.2",
     "@types/cypress-axe": "^0.4.0",
     "@types/papaparse": "^5.0.1",
