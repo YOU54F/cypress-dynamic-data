@@ -5715,7 +5715,7 @@ semver-compare@^1.0.0:
   resolved "https://registry.yarnpkg.com/semver-compare/-/semver-compare-1.0.0.tgz#0dee216a1c941ab37e9efb1788f6afc5ff5537fc"
   integrity sha1-De4hahyUGrN+nvsXiPavxf9VN/w=
 
-"semver@2 || 3 || 4 || 5", semver@^5.3.0, semver@^5.4.1, semver@^5.5.0, semver@^5.5.1, semver@^5.6.0:
+"semver@2 || 3 || 4 || 5", semver@^5.3.0, semver@^5.4.1, semver@^5.5.0, semver@^5.5.1:
   version "5.7.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.0.tgz#790a7cf6fea5459bac96110b29b60412dc8ff96b"
   integrity sha512-Ya52jSX2u7QKghxeoFGpLwCtGlt7j0oY9DYb5apt9nPlJ42ID+ulTXESnt/qAQcoSERyZ5sl3LDIOw0nAn/5DA==
@@ -5725,7 +5725,7 @@ semver@^5.7.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
 
-semver@^6.3.0:
+semver@^6.1.0, semver@^6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
@@ -6369,15 +6369,15 @@ tsconfig@^5.0.3:
     strip-bom "^2.0.0"
     strip-json-comments "^2.0.0"
 
-tsify@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/tsify/-/tsify-4.0.1.tgz#b19b0ddf7f184368dbf65839293d2c5a6d48453d"
-  integrity sha512-ClznEI+pmwY5wmD0J7HCSVERwkD+l71ch3Dqyod2JuQLEsFaiNDI+vPjaGadsuVFVvmzgoI7HghrBtWsSmCDHQ==
+tsify@^5.0.0:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/tsify/-/tsify-5.0.2.tgz#ba3c9f8de239e89ba3aab6b83d65b569ef8b68c3"
+  integrity sha512-Pdo3ZO8CAgbQgNcFRBmfbgsPP+4TsD0itbSF5YgTnxKBXfg6WkQ79e4/bqBaq/7cEYa7vIOM1pHxnux8rJJnzg==
   dependencies:
     convert-source-map "^1.1.0"
     fs.realpath "^1.0.0"
     object-assign "^4.1.0"
-    semver "^5.6.0"
+    semver "^6.1.0"
     through2 "^2.0.0"
     tsconfig "^5.0.3"
 
